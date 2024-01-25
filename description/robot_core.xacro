@@ -34,7 +34,7 @@
 
     <!--CHASSIS LINK-->
 
-    <link name="chassis">
+    <link name="chassis">           
     <visual>
         <origin xyz="0.15 0 0.075" rpy="0 0 0"/>
         <geometry>
